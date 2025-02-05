@@ -205,7 +205,7 @@ http://zakshin.ddnsfree.com:9981/stream/mux/971c3efe2331285348394b21eb3cc961
 http://zakshin.ddnsfree.com:9981/stream/mux/7dea1cdb217c457fcf3231ce8bb2899d
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
 http://zakshin.ddnsfree.com:9981/stream/mux/3996ef0f4dfcfdcea3e56ab2c9486d1e
-#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 15Mbps)
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg
 http://zakshin.ddnsfree.com:9981/stream/mux/2eded8f0221c2d4770aa4961d223f9c5
 #EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
 http://zakshin.ddnsfree.com:9981/stream/mux/9ff55c71e0cccd2d49f56403d69004de
@@ -229,7 +229,7 @@ http://zakshin.ddnsfree.com:9981/stream/mux/0665d1e8547ad481e2470b6fed335bfc
 http://zakshin.ddnsfree.com:9981/stream/mux/91fdbe54f1bd8ec927cb8ece5a077cc8
 #EXTINF:0 tvg-id="dmax" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax
 http://zakshin.ddnsfree.com:9981/stream/mux/a0315abbe537e6827158820e61edd9a9
-#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 15Mbps)
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
 http://zakshin.ddnsfree.com:9981/stream/mux/79a4001921077d71023c7f43fd021498
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
 http://zakshin.ddnsfree.com:9981/stream/mux/0be8607e022cb9a2650edb57099a8bf4
