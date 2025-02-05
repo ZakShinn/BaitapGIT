@@ -1,0 +1,289 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#------------------------VTV------------------------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+http://zakshin.freeddns.org:9981/stream/mux/21c1814f82ea301a2801b8b8f4abccf6
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+http://zakshin.freeddns.org:9981/stream/mux/a0d87c40768071cfbc4d583a8e2eb3fc
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+http://zakshin.freeddns.org:9981/stream/mux/f8c21245fb5e5ccbf726b39a19a30d29
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+http://zakshin.freeddns.org:9981/stream/mux/a6719d1c4cfe6717b150cbf4e7edd507
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+http://zakshin.freeddns.org:9981/stream/mux/abb33e6dc137b65cc8d842f22c5bf306
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+http://zakshin.freeddns.org:9981/stream/mux/c70b8871161af7d8a8526809b3bd510b
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+http://zakshin.freeddns.org:9981/stream/mux/24bb5f7b52a85c73ba47f91120c47767
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+http://zakshin.freeddns.org:9981/stream/mux/8224af72cd2da74dc4d1d7db2cb32093
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+http://zakshin.freeddns.org:9981/stream/mux/3cdb4b162f153d0cf833da4e0193203a
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+http://zakshin.freeddns.org:9981/stream/mux/8b5ffb6988caf0d9b1dd2a391e703288
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+http://zakshin.freeddns.org:9981/stream/mux/6499e61501f10a622b31d74bbbd3920b
+
+#------------------------Thiết Yếu------------------------#
+#EXTINF:0 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+http://zakshin.freeddns.org:9981/stream/mux/3162b37d7c25c78d30c3479ed14e1298
+#EXTINF:0 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+http://zakshin.freeddns.org:9981/stream/mux/1fcd5569ca34a78495a6606fe2f10b56
+
+#------------------------SCTV------------------------#
+#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1
+http://zakshin.freeddns.org:9981/stream/mux/c50df89c6a1428931ec11957eeaf56f7
+#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2
+http://zakshin.freeddns.org:9981/stream/mux/e9baa18c5d571bdf9985d864e6a551db
+#EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3
+http://zakshin.freeddns.org:9981/stream/mux/8c2743c7a1ba9ee87c70b4f44446529f
+#EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4
+http://zakshin.freeddns.org:9981/stream/mux/e44bcd383cb1bafc5a39947a1caf5cc6
+#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
+http://zakshin.freeddns.org:9981/stream/mux/ced3c62dc5bf83aa1f28bb7bc9faa808
+#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7
+http://zakshin.freeddns.org:9981/stream/mux/7f363b000bb5d3d5483c7fd789900572
+#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8
+http://zakshin.freeddns.org:9981/stream/mux/7da37890ed3626b55b9acf512c546a79
+#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9
+http://zakshin.freeddns.org:9981/stream/mux/1638eae23cfb602e98b01cc866ee9090
+#EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11
+http://zakshin.freeddns.org:9981/stream/mux/a2b3c7027c432ea242cb27ae29cd6c7d
+#EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12
+http://zakshin.freeddns.org:9981/stream/mux/25e3c1937d696fbabb7fda071c656815
+#EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14
+http://zakshin.freeddns.org:9981/stream/mux/b9ce8b75fc91c5fbe8672a50a251c22b
+#EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15
+http://zakshin.freeddns.org:9981/stream/mux/c4ce20301964e4e48a450a1f2b47b5ca
+#EXTINF:0 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16
+http://zakshin.freeddns.org:9981/stream/mux/78df4390885188aceb14a0b61bb7ff6b
+#EXTINF:0 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17
+http://zakshin.freeddns.org:9981/stream/mux/3e8422fdfa8b2ed1a277b25f819dfdb6
+#EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18
+http://zakshin.freeddns.org:9981/stream/mux/48a1feb5d5958993e0c3d27aed83ed71
+#EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19
+http://zakshin.freeddns.org:9981/stream/mux/a1a723a45a473f98c0561f3fb2a5b1bc
+#EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20
+http://zakshin.freeddns.org:9981/stream/mux/902bb90aa48379bee3442e6f4c06067e
+#EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21
+http://zakshin.freeddns.org:9981/stream/mux/a3daea725a190d9b3439667ef667a71f
+#EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22
+http://zakshin.freeddns.org:9981/stream/mux/cf71b9fa5c520e4cbd2217f81beb4596
+#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp
+http://zakshin.freeddns.org:9981/stream/mux/eadf92959685374e0f1eea7227bb584e
+
+#------------------------HTV/HTVC------------------------#
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+http://zakshin.freeddns.org:9981/stream/mux/d4c4857449ce349f6ccce80580bd7c63
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
+http://zakshin.freeddns.org:9981/stream/mux/9ea41e998693956c045e596eb8d77138
+#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+http://zakshin.freeddns.org:9981/stream/mux/91708ceacf30329422a9ce467c8cd950
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+http://zakshin.freeddns.org:9981/stream/mux/f08265c6172b115c13818ca266f7a0cf
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
+http://zakshin.freeddns.org:9981/stream/mux/4498e9b57575d89e5b7e264c648f3132
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
+http://zakshin.freeddns.org:9981/stream/mux/ebb1396cac44ddee95ec75c14500a15e
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
+http://zakshin.freeddns.org:9981/stream/mux/af4761cd3062d3cca93643c7bacbc245
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+http://zakshin.freeddns.org:9981/stream/mux/cdcd9d1802ff1a049c485b698a6eac9f
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+http://zakshin.freeddns.org:9981/stream/mux/cc34e35df2246d94a0de9a6f2d6e5894
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+http://zakshin.freeddns.org:9981/stream/mux/c779afc3523f7c2106f0e974cd85abad
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+http://zakshin.freeddns.org:9981/stream/mux/e72bf404bd44f51a49085f4358b3fa42
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+http://zakshin.freeddns.org:9981/stream/mux/5720a1d5d0e0282346ebd298329f0f08
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+http://zakshin.freeddns.org:9981/stream/mux/69f4dbd4778ec52c71ad9361e07f4534
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
+http://zakshin.freeddns.org:9981/stream/mux/c56284e7152b605b68d035ddd0e4c3dc
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+http://zakshin.freeddns.org:9981/stream/mux/32511e59aca73a35a35c550b5871ecf4
+
+#------------------------Other------------------------#
+#------------------------Địa phương (HD)------------------------#
+#EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
+http://zakshin.freeddns.org:9981/stream/mux/700b09ee222473af65e80de4c31b639b
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình
+http://zakshin.freeddns.org:9981/stream/mux/80412cfce785bb659247e6f7cdace1ca
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên
+http://zakshin.freeddns.org:9981/stream/mux/c53feebe991d6c862c8483898ddc1241
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ
+http://zakshin.freeddns.org:9981/stream/mux/114097712607c4762cd8704b073afc1d
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
+http://zakshin.freeddns.org:9981/stream/mux/6a44d9e5bdceafc87474c0e7508917fb
+#EXTINF:0 tvg-id="caobang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng
+http://zakshin.freeddns.org:9981/stream/mux/d7a51b8a51d5c47b3ddc4a8b4fa142b4
+#EXTINF:0 tvg-id="backan" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn
+http://zakshin.freeddns.org:9981/stream/mux/341d8a1a1b7cdc7384e846e4e8a0c1f1
+#EXTINF:0 tvg-id="langson" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn
+http://zakshin.freeddns.org:9981/stream/mux/4d19b111fb4c855b3cc9cbb91e7fdf6c
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh
+http://zakshin.freeddns.org:9981/stream/mux/5ff3a0fd1594bdfdf36777c95bca347f
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
+http://zakshin.freeddns.org:9981/stream/mux/bce6e68c6c2b820d3b64d4ffaafc62de
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
+http://zakshin.freeddns.org:9981/stream/mux/0b0aab867047ff373a6a925bbc740d4d
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
+http://zakshin.freeddns.org:9981/stream/mux/d2c0e2646795a158a2aad8a1ce11d64c
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
+http://zakshin.freeddns.org:9981/stream/mux/c0e3dd93c14b27bac9b613df11361115
+#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
+http://zakshin.freeddns.org:9981/stream/mux/e9892743913680c6a79b796ac0f43130
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng
+http://zakshin.freeddns.org:9981/stream/mux/01c1c73c1436de2a357d8c001127b053
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng
+http://zakshin.freeddns.org:9981/stream/mux/e64d2aa393401088910daf3dbaf2439b
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD _ TH Hưng Yên
+http://zakshin.freeddns.org:9981/stream/mux/dff2f266219efb405f6770e9553090cd
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình
+http://zakshin.freeddns.org:9981/stream/mux/6fc17269bc05de66dfb58a6f7c204cbc
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
+http://zakshin.freeddns.org:9981/stream/mux/e902aa1ac8bc763bb04f1b631301244d
+#EXTINF:0 tvg-id="nghean" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An
+http://zakshin.freeddns.org:9981/stream/mux/a870abbd44f802774568157045f28660
+#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh
+http://zakshin.freeddns.org:9981/stream/mux/724d8b43d0f6a91009daf32c262c61c3
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QRTV _ TH Quảng Trị
+http://zakshin.freeddns.org:9981/stream/mux/3111b04c0e2a4a9119eaca968abbbd75
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
+http://zakshin.freeddns.org:9981/stream/mux/2139467b213ceed2e13c3807d8c45598
+#EXTINF:0 tvg-id="kontum" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
+http://zakshin.freeddns.org:9981/stream/mux/b2e63e2472922399250b4e09e2b402b0
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
+http://zakshin.freeddns.org:9981/stream/mux/211fea4713ebce0ce209c66c1a20ffa0
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
+http://zakshin.freeddns.org:9981/stream/mux/8e88e00dd587360e0e2bbac3182071bd
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
+http://zakshin.freeddns.org:9981/stream/mux/497545d9e699de574452aaf9fa31e9fd
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai
+http://zakshin.freeddns.org:9981/stream/mux/c9ab6f8de27aabeea1dcfac1985c52a1
+#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
+http://zakshin.freeddns.org:9981/stream/mux/a029acb56b89b5b075513ed7cd3b3606
+#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu
+http://zakshin.freeddns.org:9981/stream/mux/797c9ad2e745c1d74a87336a308f57ba
+#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
+http://zakshin.freeddns.org:9981/stream/mux/40e43962ffdd9efd69733e9782d9f230
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang
+http://zakshin.freeddns.org:9981/stream/mux/26aa4dbea7eb17f67170b1d01a1bfdf7
+#EXTINF:0 tvg-id="angiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV _ TH An Giang
+http://zakshin.freeddns.org:9981/stream/mux/ccc206d904fcc760b7793c4b305f11a2
+#EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre
+http://zakshin.freeddns.org:9981/stream/mux/8aa5e9ef24652ecfb284bf2e7b39ae6d
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
+http://zakshin.freeddns.org:9981/stream/mux/79fa14666a7ba8f1bb44ce2349c524e9
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long
+http://zakshin.freeddns.org:9981/stream/mux/f8b5e9c67b0c1ce4abcb027245fa538b
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long
+http://zakshin.freeddns.org:9981/stream/mux/00a0fe3b05fce4067a1a5656f891e755
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long
+http://zakshin.freeddns.org:9981/stream/mux/655c2ec25fd0e02674aa08e678a01367
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
+http://zakshin.freeddns.org:9981/stream/mux/bfec9c96b95b8658e7c3a3e28c03ca29
+#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng
+http://zakshin.freeddns.org:9981/stream/mux/dbc064c5f5b33f31aaad0001722c00fe
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh
+http://zakshin.freeddns.org:9981/stream/mux/8ec3d3062830e0bf1fa03face2ea7120
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
+http://zakshin.freeddns.org:9981/stream/mux/2bef99ad66f82086d172e713728d22d9
+
+#------------------------Quốc Tế (HD)------------------------#
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
+http://zakshin.freeddns.org:9981/stream/mux/c9c4434ad906c356f50202e5d44869cd
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+http://zakshin.freeddns.org:9981/stream/mux/40aa852a645b5016f099813e5c82458d
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+http://zakshin.freeddns.org:9981/stream/mux/89a51647ecc8e1c811611773113a2d98
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
+http://zakshin.freeddns.org:9981/stream/mux/43f5d129552b6546d536ac84763388a9
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
+http://zakshin.freeddns.org:9981/stream/mux/971c3efe2331285348394b21eb3cc961
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
+http://zakshin.freeddns.org:9981/stream/mux/7dea1cdb217c457fcf3231ce8bb2899d
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
+http://zakshin.freeddns.org:9981/stream/mux/3996ef0f4dfcfdcea3e56ab2c9486d1e
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 15Mbps)
+http://zakshin.freeddns.org:9981/stream/mux/2eded8f0221c2d4770aa4961d223f9c5
+#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
+http://zakshin.freeddns.org:9981/stream/mux/9ff55c71e0cccd2d49f56403d69004de
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
+http://zakshin.freeddns.org:9981/stream/mux/dde45d92a0c8528d534e43f6706a5723
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
+http://zakshin.freeddns.org:9981/stream/mux/0eafc4f7e2dc55b0ca570518c1ecd25d
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+http://zakshin.freeddns.org:9981/stream/mux/45bb94c65f865d5afc2501cdf6c3d47e
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV
+http://zakshin.freeddns.org:9981/stream/mux/045f297bd04953316dec18be0afa15e2
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
+http://zakshin.freeddns.org:9981/stream/mux/92ab883d3396f5f2b693a5f35e119845
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
+http://zakshin.freeddns.org:9981/stream/mux/bf5524fa755700a3fc5fe6fa6d6ede8c
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
+http://zakshin.freeddns.org:9981/stream/mux/f31c904afa356268334abbbe6f1d47e6
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
+http://zakshin.freeddns.org:9981/stream/mux/0665d1e8547ad481e2470b6fed335bfc
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
+http://zakshin.freeddns.org:9981/stream/mux/91fdbe54f1bd8ec927cb8ece5a077cc8
+#EXTINF:0 tvg-id="dmax" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax
+http://zakshin.freeddns.org:9981/stream/mux/a0315abbe537e6827158820e61edd9a9
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 15Mbps)
+http://zakshin.freeddns.org:9981/stream/mux/79a4001921077d71023c7f43fd021498
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
+http://zakshin.freeddns.org:9981/stream/mux/0be8607e022cb9a2650edb57099a8bf4
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
+http://zakshin.freeddns.org:9981/stream/mux/61f01b61423d19eb491e9ed1f829c01f
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+http://zakshin.freeddns.org:9981/stream/mux/6930b7aff82aa8f9f22c16aee5d6f200
+#EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
+http://zakshin.freeddns.org:9981/stream/mux/a3f1a2c0c028844e2dbcc6270c610537
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
+http://zakshin.freeddns.org:9981/stream/mux/45860cb601f4e88eef5225f12b07483a
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor
+http://zakshin.freeddns.org:9981/stream/mux/1ea729f545e235fede942c0daa1aed60
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
+http://zakshin.freeddns.org:9981/stream/mux/100863d45e9bf5f54c57517b67c050ea
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
+http://zakshin.freeddns.org:9981/stream/mux/120484861439bd70e4a1a9ae27c7b94b
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
+http://zakshin.freeddns.org:9981/stream/mux/385e3647488bd3b3cdc15dadcc98d4de
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+http://zakshin.freeddns.org:9981/stream/mux/6d194a0b08e79102b183599f4c9fc864
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
+http://zakshin.freeddns.org:9981/stream/mux/7938bce658cf14a09f2e82afb1cb1c91
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+http://zakshin.freeddns.org:9981/stream/mux/1c1bd96fabd934613207e1b56d8e1508
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
+http://zakshin.freeddns.org:9981/stream/mux/627c2460e1d90c3e72d8c768d2ad8837
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
+http://zakshin.freeddns.org:9981/stream/mux/1c190e1832a437dca939b895877fc30d
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
+http://zakshin.freeddns.org:9981/stream/mux/fa3d04bcaefbcac5450073c7ed03a419
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
+http://zakshin.freeddns.org:9981/stream/mux/32c9bd8625ff32cba83f4e78dfed5909
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
+http://zakshin.freeddns.org:9981/stream/mux/62a45f6691d958a7da607d0df4c86f83
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
+http://zakshin.freeddns.org:9981/stream/mux/dcaa88200a67e546e29407ad1959ca01
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+http://zakshin.freeddns.org:9981/stream/mux/4d46045d9dc030a0b91ecf2025546faa
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
+http://zakshin.freeddns.org:9981/stream/mux/b6df8a330d967cd543d774e5f71d8b07
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
+http://zakshin.freeddns.org:9981/stream/mux/189277f4e9bed065adf4800424aa81ba
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+http://zakshin.freeddns.org:9981/stream/mux/03b4e23026e14c05197dd9e8c0fb20ef
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
+http://zakshin.freeddns.org:9981/stream/mux/2f75e789cfe8204986982bd3fc4aaeec
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
+http://zakshin.freeddns.org:9981/stream/mux/a351f372adaafd17f686043be96880c6
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
+http://zakshin.freeddns.org:9981/stream/mux/668d327c7a0272888c94587962f05ec8
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
+http://zakshin.freeddns.org:9981/stream/mux/9b26255a9e7fd88759991cbc9294a95b
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+http://zakshin.freeddns.org:9981/stream/mux/2c214a6bc303aad75ab7fdd55872eb8b
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+http://zakshin.freeddns.org:9981/stream/mux/e04a35a20fc24f5e80eaeb6badb3e200
