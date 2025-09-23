@@ -1,4 +1,3 @@
-
 0.0.0.0 ntp.bas.roche.com
 0.0.0.0 apple-dns.net
 0.0.0.0 ldmnq.com
