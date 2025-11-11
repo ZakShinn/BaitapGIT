@@ -211,7 +211,7 @@ http://iptv.hainghia.net:6789/rtp/232.84.3.165:10900
 http://iptv.hainghia.net:6789/rtp/232.84.3.160:10912
 #EXTINF:0 tvg-id="tayninh2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 | Tây Ninh (HD 6Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.233:11320
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội
 http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.8:5000
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC | Lào Cai (HD 6Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.253:11440
