@@ -107,12 +107,6 @@ https://api.cotivi.online/index.m3u8?channel=sctv8-c12d138b
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 HD
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://api.cotivi.online/kplus.m3u8?channel=sctv9
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 HD
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://api.cotivi.online/kplus.m3u8?channel=sctv16
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 HD
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://api.cotivi.online/index.m3u8?channel=sctv11-1d565c47
@@ -122,17 +116,36 @@ https://api.cotivi.online/index.m3u8?channel=sctv12-b0d6c023
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg",SCTV13 HD
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://api.cotivi.online/index.m3u8?channel=sctv13-67f88fcb
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 HD
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://api.cotivi.online/kplus.m3u8?channel=sctv15
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 HD Giải mã 1
-https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd
-c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 HD Giải mã 2
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://livecdn.seenow.vn/mean/SCTV15HD/manifest.mpd
-a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 
+
+
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV15 Giải mã 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV15 Giải mã 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livecdn.seenow.vn/mean/SCTV15HD/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 HD
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://api.cotivi.online/kplus.m3u8?channel=sctv16
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 HD
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://api.cotivi.online/kplus.m3u8?channel=sctv17
@@ -225,6 +238,8 @@ http://iptv.hainghia.net:6789/rtp/232.84.3.164:10888
 http://iptv.hainghia.net:6789/rtp/232.84.3.165:10900
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Vĩnh Long (HD 7Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.160:10912
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long
+http://iptv.hainghia.net:6789/rtp/239.12.252.70:5000
 #EXTINF:0 tvg-id="tayninh2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 | Tây Ninh (HD 6Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.233:11320
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội
@@ -309,120 +324,125 @@ http://iptv.hainghia.net:6789/rtp/232.84.2.245:10506
 http://iptv.hainghia.net:6789/rtp/232.84.3.80:11572
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Vĩnh Long (HD 7Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.95:11482
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV HD | Điện Biên
-http://iptv.hainghia.net:6789/rtp/239.12.252.119:5000
-#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD | Lai Châu
-http://iptv.hainghia.net:6789/rtp/239.12.252.99:5000
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC HD | Lào Cai
-http://iptv.hainghia.net:6789/rtp/239.12.252.109:5000
-#EXTINF:0 tvg-id="sonla" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV HD | Sơn La
-http://iptv.hainghia.net:6789/rtp/239.12.251.20:5000
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD | Tuyên Quang
-http://iptv.hainghia.net:6789/rtp/239.12.252.45:5000
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD | Cao Bằng
-http://iptv.hainghia.net:6789/rtp/239.12.252.87:5000
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN HD | Thái Nguyên
-http://iptv.hainghia.net:6789/rtp/239.12.252.105:5000
-#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Lạng Sơn
-http://iptv.hainghia.net:6789/rtp/239.12.251.39:5000
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Phú Thọ
-http://iptv.hainghia.net:6789/rtp/239.12.251.46:5000
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Hà Nội
-http://iptv.hainghia.net:6789/rtp/239.12.251.223:5000
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Hà Nội
-http://iptv.hainghia.net:6789/rtp/239.12.252.14:5000
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Hà Nội
-http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV HD | Bắc Ninh
-http://iptv.hainghia.net:6789/rtp/239.12.251.12:5000
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh
-http://iptv.hainghia.net:6789/rtp/239.12.252.71:5000
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh
-http://iptv.hainghia.net:6789/rtp/239.12.252.66:5000
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD | Hải Phòng
-http://iptv.hainghia.net:6789/rtp/239.12.251.66:5000
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD | Hải Phòng
-http://iptv.hainghia.net:6789/rtp/239.12.251.76:5000
-#EXTINF:0 tvg-id="haiphong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 HD | Hải Phòng
-http://iptv.hainghia.net:6789/rtp/239.12.251.31:5000
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD | Hưng Yên
-http://iptv.hainghia.net:6789/rtp/239.12.251.35:5000
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình
-http://iptv.hainghia.net:6789/rtp/239.12.252.102:5000
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV HD | Thanh Hóa
-http://iptv.hainghia.net:6789/rtp/239.12.252.107:5000
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Nghệ An
-http://iptv.hainghia.net:6789/rtp/239.12.252.94:5000
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV HD | TH Hà Tĩnh
-http://iptv.hainghia.net:6789/rtp/239.12.252.88:5000
-#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV HD | Quảng Trị
-http://iptv.hainghia.net:6789/rtp/239.12.251.70:5000
-#EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV HD | Huế
-http://iptv.hainghia.net:6789/rtp/239.12.252.5:5000
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng
-http://iptv.hainghia.net:6789/rtp/239.12.252.93:5000
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng
-http://iptv.hainghia.net:6789/rtp/239.12.252.111:5000
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV HD | Quảng Ngãi
-http://iptv.hainghia.net:6789/rtp/239.12.252.100:5000
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV HD | Gia Lai
-http://iptv.hainghia.net:6789/rtp/239.12.252.35:5000
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk
-http://iptv.hainghia.net:6789/rtp/239.12.252.56:5000
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk
-http://iptv.hainghia.net:6789/rtp/239.12.252.84:5000
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD | Khánh Hòa
-http://iptv.hainghia.net:6789/rtp/239.12.252.2:5000
-#EXTINF:0 tvg-id="khanhhoa1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Khánh Hòa
-http://iptv.hainghia.net:6789/rtp/239.12.251.45:5000
-#EXTINF:0 tvg-id="lamdong1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 HD | Lâm Đồng
-http://iptv.hainghia.net:6789/rtp/239.12.252.110:5000
-#EXTINF:0 tvg-id="lamdong2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 HD | Lâm Đồng
-http://iptv.hainghia.net:6789/rtp/239.12.252.122:5000
-#EXTINF:0 tvg-id="lamdong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 HD | Lâm Đồng
-http://iptv.hainghia.net:6789/rtp/239.12.252.118:5000
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
-http://iptv.hainghia.net:6789/rtp/239.12.252.96:5000
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
-http://iptv.hainghia.net:6789/rtp/239.12.251.17:5000
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai
-http://iptv.hainghia.net:6789/rtp/239.12.251.75:5000
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | TP.HCM
-http://iptv.hainghia.net:6789/rtp/239.12.251.15:5000
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | TP.HCM
-http://iptv.hainghia.net:6789/rtp/239.12.251.16:5000
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel HD
-http://iptv.hainghia.net:6789/rtp/239.12.251.61:5000
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | TP.HCM
-http://iptv.hainghia.net:6789/rtp/239.12.252.92:5000
-#EXTINF:0 tvg-id="tayninh1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 HD | Tây Ninh
+
+#------------------------Địa Phương (HD) VT------------------------#
+#EXTINF:0 tvg-id="tayninh1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 HD | Tây Ninh
 http://iptv.hainghia.net:6789/rtp/239.12.252.86:5000
-#EXTINF:0 tvg-id="tayninh2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 HD | Tây Ninh
+#EXTINF:0 tvg-id="tayninh2" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 HD | Tây Ninh
 http://iptv.hainghia.net:6789/rtp/239.12.252.69:5000
-#EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD | Đồng Tháp
-http://iptv.hainghia.net:6789/rtp/239.12.252.97:5000
-#EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây HD | Đồng Tháp
-http://iptv.hainghia.net:6789/rtp/239.12.252.91:5000
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/239.12.251.99:5000
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/239.12.251.100:5000
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/239.12.252.29:5000
-#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Vĩnh Long (HD 7Mbps)
+http://iptv.hainghia.net:6789/rtp/232.84.3.160:10912
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/239.12.252.70:5000
-#EXTINF:0 tvg-id="angiang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 HD | An Giang
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV HD | Điện Biên
+http://iptv.hainghia.net:6789/rtp/239.12.252.119:5000
+#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD | Lai Châu
+http://iptv.hainghia.net:6789/rtp/239.12.252.99:5000
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC HD | Lào Cai
+http://iptv.hainghia.net:6789/rtp/239.12.252.109:5000
+#EXTINF:0 tvg-id="sonla" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV HD | Sơn La
+http://iptv.hainghia.net:6789/rtp/239.12.251.20:5000
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD | Tuyên Quang
+http://iptv.hainghia.net:6789/rtp/239.12.252.45:5000
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD | Cao Bằng
+http://iptv.hainghia.net:6789/rtp/239.12.252.87:5000
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN HD | Thái Nguyên
+http://iptv.hainghia.net:6789/rtp/239.12.252.105:5000
+#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Lạng Sơn
+http://iptv.hainghia.net:6789/rtp/239.12.251.39:5000
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Phú Thọ
+http://iptv.hainghia.net:6789/rtp/239.12.251.46:5000
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Hà Nội
+http://iptv.hainghia.net:6789/rtp/239.12.251.223:5000
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Hà Nội
+http://iptv.hainghia.net:6789/rtp/239.12.252.14:5000
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Hà Nội
+http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV HD | Bắc Ninh
+http://iptv.hainghia.net:6789/rtp/239.12.251.12:5000
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh
+http://iptv.hainghia.net:6789/rtp/239.12.252.71:5000
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh
+http://iptv.hainghia.net:6789/rtp/239.12.252.66:5000
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD | Hải Phòng
+http://iptv.hainghia.net:6789/rtp/239.12.251.66:5000
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD | Hải Phòng
+http://iptv.hainghia.net:6789/rtp/239.12.251.76:5000
+#EXTINF:0 tvg-id="haiphong3" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 HD | Hải Phòng
+http://iptv.hainghia.net:6789/rtp/239.12.251.31:5000
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD | Hưng Yên
+http://iptv.hainghia.net:6789/rtp/239.12.251.35:5000
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình
+http://iptv.hainghia.net:6789/rtp/239.12.252.102:5000
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV HD | Thanh Hóa
+http://iptv.hainghia.net:6789/rtp/239.12.252.107:5000
+#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Nghệ An
+http://iptv.hainghia.net:6789/rtp/239.12.252.94:5000
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV HD | TH Hà Tĩnh
+http://iptv.hainghia.net:6789/rtp/239.12.252.88:5000
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV HD | Quảng Trị
+http://iptv.hainghia.net:6789/rtp/239.12.251.70:5000
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV HD | Huế
+http://iptv.hainghia.net:6789/rtp/239.12.252.5:5000
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng
+http://iptv.hainghia.net:6789/rtp/239.12.252.93:5000
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng
+http://iptv.hainghia.net:6789/rtp/239.12.252.111:5000
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV HD | Quảng Ngãi
+http://iptv.hainghia.net:6789/rtp/239.12.252.100:5000
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV HD | Gia Lai
+http://iptv.hainghia.net:6789/rtp/239.12.252.35:5000
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk
+http://iptv.hainghia.net:6789/rtp/239.12.252.56:5000
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk
+http://iptv.hainghia.net:6789/rtp/239.12.252.84:5000
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD | Khánh Hòa
+http://iptv.hainghia.net:6789/rtp/239.12.252.2:5000
+#EXTINF:0 tvg-id="khanhhoa1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Khánh Hòa
+http://iptv.hainghia.net:6789/rtp/239.12.251.45:5000
+#EXTINF:0 tvg-id="lamdong1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 HD | Lâm Đồng
+http://iptv.hainghia.net:6789/rtp/239.12.252.110:5000
+#EXTINF:0 tvg-id="lamdong2" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 HD | Lâm Đồng
+http://iptv.hainghia.net:6789/rtp/239.12.252.122:5000
+#EXTINF:0 tvg-id="lamdong3" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 HD | Lâm Đồng
+http://iptv.hainghia.net:6789/rtp/239.12.252.118:5000
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
+http://iptv.hainghia.net:6789/rtp/239.12.252.96:5000
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
+http://iptv.hainghia.net:6789/rtp/239.12.251.17:5000
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai
+http://iptv.hainghia.net:6789/rtp/239.12.251.75:5000
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | TP.HCM
+http://iptv.hainghia.net:6789/rtp/239.12.251.15:5000
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | TP.HCM
+http://iptv.hainghia.net:6789/rtp/239.12.251.16:5000
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel HD
+http://iptv.hainghia.net:6789/rtp/239.12.251.61:5000
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | TP.HCM
+http://iptv.hainghia.net:6789/rtp/239.12.252.92:5000
+#EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD | Đồng Tháp
+http://iptv.hainghia.net:6789/rtp/239.12.252.97:5000
+#EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây HD | Đồng Tháp
+http://iptv.hainghia.net:6789/rtp/239.12.252.91:5000
+#EXTINF:0 tvg-id="angiang1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 HD | An Giang
 http://iptv.hainghia.net:6789/rtp/239.12.252.68:5000
-#EXTINF:0 tvg-id="angiang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 HD | An Giang
+#EXTINF:0 tvg-id="angiang2" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 HD | An Giang
 http://iptv.hainghia.net:6789/rtp/239.12.251.7:5000
-#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Cà Mau
+#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Cà Mau
 http://iptv.hainghia.net:6789/rtp/239.12.251.19:5000
-#EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",Cần Thơ 1 HD
+#EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",Cần Thơ 1 HD
 http://iptv.hainghia.net:6789/rtp/239.12.252.67:5000
-#EXTINF:0 tvg-id="cantho2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",Cần Thơ 2 HD
+#EXTINF:0 tvg-id="cantho2" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",Cần Thơ 2 HD
 http://iptv.hainghia.net:6789/rtp/239.12.252.121:5000
-#EXTINF:0 tvg-id="cantho3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",Cần Thơ 3 HD
+#EXTINF:0 tvg-id="cantho3" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",Cần Thơ 3 HD
 http://iptv.hainghia.net:6789/rtp/239.12.252.90:5000
+
 
 #------------------------Địa Phương (SD)------------------------#
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 | Tây Ninh
