@@ -805,3 +805,40 @@ http://iptv.hainghia.net:6789/rtp/232.84.1.91:10404
 http://iptv.hainghia.net:6789/rtp/232.84.3.38:11824
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/3jlwft1.png",Xing Kong
 http://iptv.hainghia.net:6789/rtp/232.84.3.189:11056
+
+#------------------------Viettel Service------------------------#
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",MOSAIC
+http://iptv.hainghia.net:6789/rtp/239.12.251.151:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.124:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.125:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.126:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.251.150:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.251.181:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.36:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.251.183:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.251.79:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.58:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.10:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.11:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.26:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.31:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.32:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.33:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://iptv.hainghia.net:6789/rtp/239.12.252.98:5000
+
