@@ -238,7 +238,7 @@ http://iptv.hainghia.net:6789/rtp/232.84.3.164:10888
 http://iptv.hainghia.net:6789/rtp/232.84.3.165:10900
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Vĩnh Long (HD 7Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.160:10912
-#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/239.12.252.70:5000
 #EXTINF:0 tvg-id="tayninh2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 | Tây Ninh (HD 6Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.233:11320
@@ -336,7 +336,7 @@ http://iptv.hainghia.net:6789/rtp/239.12.251.99:5000
 http://iptv.hainghia.net:6789/rtp/239.12.251.100:5000
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD) VT" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/239.12.252.29:5000
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Vĩnh Long (HD 7Mbps)
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD) VT" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Vĩnh Long (HD 7Mbps)
 http://iptv.hainghia.net:6789/rtp/232.84.3.160:10912
 #EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD) VT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/239.12.252.70:5000
