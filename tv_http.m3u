@@ -346,116 +346,116 @@ http://iptv.hainghia.net:6789/rtp/232.84.3.80:11572
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Vĩnh Long
 http://iptv.hainghia.net:6789/rtp/232.84.3.95:11482
 
-#------------------------SCTV 1------------------------#
-#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV_4K.png/revision/latest?cb=20250620065611&path-prefix=vi",SCTV 4K
+#------------------------SCTV line 1------------------------#
+#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV line 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV_4K.png/revision/latest?cb=20250620065611&path-prefix=vi",SCTV 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
-#EXTINF:-1 tvg-id="tvbvietnam" group-title="SCTV 1" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB Vietnam
+#EXTINF:-1 tvg-id="tvbvietnam" group-title="SCTV line 1" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 (HD 8Mbps)
+#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=790
-#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV 1" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV PTH (HD 6Mbps)
+#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV PTH (HD 6Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=766
-#EXTINF:0 tvg-id="sctv14hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv14hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=802
-#EXTINF:0 tvg-id="sctv16hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv16hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=805
-#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
+#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=769
-#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 (HD 6Mbps)
+#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 (HD 6Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=772
-#EXTINF:0 tvg-id="sctv4hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv4hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=778
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=781
-#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
+#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=784
-#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
+#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=787
-#EXTINF:0 tvg-id="sctv11hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv11hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=793
-#EXTINF:0 tvg-id="sctv18hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 (HD 6Mbps)
+#EXTINF:0 tvg-id="sctv18hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 (HD 6Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=808
-#EXTINF:0 tvg-id="sctv21hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv21hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=817
-#EXTINF:0 tvg-id="sctv13hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv13hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=799
-#EXTINF:0 tvg-id="sctv12hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv12hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=796
-#EXTINF:0 tvg-id="sctv20hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv20hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=814
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv15hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=823
-#EXTINF:0 tvg-id="sctv17hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv17hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=826
-#EXTINF:0 tvg-id="sctv22hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv22hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=829
 
-#EXTINF:0 tvg-id="sctv19hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv19hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=811
-#EXTINF:0 tvg-id="sctv3hd" group-title="SCTV 1" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 (HD 7Mbps)
+#EXTINF:0 tvg-id="sctv3hd" group-title="SCTV line 1" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 (HD 7Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=775
-#------------------------SCTV 2------------------------#
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg",SCTV9 1
+#------------------------SCTV line 2------------------------#
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg",SCTV9 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg",SCTV PTH 1
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg",SCTV PTH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg",SCTV14 HD
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg",SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg",SCTV16 1
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg",SCTV16 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV 2" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_640_360.png",SCTV2 HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV line 2" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_640_360.png",SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg",SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg",SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg",SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg",SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv6
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg",SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg",SCTV8 HD
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg",SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV 2" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg",SCTV11 HD
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV line 2" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg",SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg",SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg",SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg",SCTV21 1
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg",SCTV21 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg",SCTV13 HD
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg",SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg",SCTV12 HD
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg",SCTV12 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg",SCTV20 1
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg",SCTV20 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg",SCTV19 1
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg",SCTV19 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV3 HD
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV line 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV 2" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_640_360.png",SCTV2 3
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV line 2" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_640_360.png",SCTV2 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV 2" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FPT
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV line 2" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FPT
 http://worldlink.mikrotik.id.vn:25127/udp/225.1.3.34:30120
 #------------------------SCTV APP------------------------#
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV APP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV15 2
