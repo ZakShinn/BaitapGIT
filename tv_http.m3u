@@ -24,6 +24,8 @@ http://iptv.hainghia.net:6789/rtp/232.84.3.86:11542
 http://iptv.hainghia.net:6789/rtp/232.84.3.66:11656
 #EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today FPT
 http://worldlink.mikrotik.id.vn:25127/udp/225.1.3.95:30120
+#EXTINF:0 tvg-id="hitv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/1000?cb=20200831064620&path-prefix=vi",HiTV
+http://iptv.hainghia.net:6789/rtp/239.12.252.11:5000
 
 #------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
