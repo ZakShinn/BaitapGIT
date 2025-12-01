@@ -549,6 +549,22 @@ https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
 
 #------------------------Quốc Tế (HD)------------------------#
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia HD
+http://iptv.hainghia.net:6789/rtp/239.12.252.78:5000
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network HD
+http://iptv.hainghia.net:6789/rtp/239.12.251.164:5000
+#EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA HD
+http://iptv.hainghia.net:6789/rtp/239.12.252.81:5000
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci HD
+http://iptv.hainghia.net:6789/rtp/239.12.251.162:5000
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW HD
+http://iptv.hainghia.net:6789/rtp/239.12.252.80:5000
+#EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/History.png",History HD
+http://iptv.hainghia.net:6789/rtp/239.12.251.178:5000
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World HD
+http://iptv.hainghia.net:6789/rtp/239.12.252.116:5000
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+http://iptv.hainghia.net:6789/rtp/239.12.252.18:5000
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://iptv.hainghia.net:6789/rtp/232.84.3.139:10702
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
@@ -645,6 +661,18 @@ http://iptv.hainghia.net:6789/rtp/232.84.2.51:10516
 http://iptv.hainghia.net:6789/rtp/232.84.3.63:11674
 
 #------------------------Quốc Tế (SD)------------------------#
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+http://iptv.hainghia.net:6789/rtp/239.12.252.57:5000
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
+http://iptv.hainghia.net:6789/rtp/239.12.252.16:5000
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
+http://iptv.hainghia.net:6789/rtp/239.12.251.232:5000
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan 
+http://iptv.hainghia.net:6789/rtp/239.12.252.19:5000
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie
+http://iptv.hainghia.net:6789/rtp/239.12.252.17:5000
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie
+http://iptv.hainghia.net:6789/rtp/239.12.252.82:5000
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Nz525XH.png",123TV
 http://iptv.hainghia.net:6789/rtp/232.84.3.39:11818
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
