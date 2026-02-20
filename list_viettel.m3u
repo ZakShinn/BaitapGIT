@@ -27,8 +27,6 @@ rtp://239.12.252.21:5000
 rtp://239.12.252.104:5000
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 rtp://239.12.252.7:5000
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
-rtp://239.12.252.24:5000
 #------------------------VTVcab------------------------#
 #EXTINF:0 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV HD
 rtp://239.12.252.42:5000
@@ -75,11 +73,7 @@ rtp://239.12.252.114:5000
 rtp://239.12.252.113:5000
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 rtp://239.12.252.20:5000
-#------------------------SCTV------------------------#.
-#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 HD
-rtp://239.12.252.34:5000
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
-rtp://239.12.251.71:5000
+
 #------------------------Other------------------------#
 #EXTINF:0 tvg-id="youtv" group-title="Other" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV
 rtp://239.12.251.94:5000
